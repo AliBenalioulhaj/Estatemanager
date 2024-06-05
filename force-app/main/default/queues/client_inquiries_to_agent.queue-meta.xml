@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Queue xmlns="http://soap.sforce.com/2006/04/metadata">
+    <doesSendEmailToMembers>true</doesSendEmailToMembers>
+    <email>benalioulhajali@gmail.com</email>
+    <name>client inquiries to agent</name>
+    <queueMembers>
+        <users>
+            <user>ahmed.taboubi.1992@red.com</user>
+            <user>benalioulhajali@mindful-shark-qpmlix.com</user>
+        </users>
+    </queueMembers>
+    <queueSobject>
+        <sobjectType>Lead</sobjectType>
+    </queueSobject>
+</Queue>
